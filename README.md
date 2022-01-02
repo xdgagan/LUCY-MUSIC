@@ -1,4 +1,8 @@
-<h2 align="centre"> LUCY MUSIC</h2>
+<h1 align="center">
+<b>LUCY MUSIC</b>
+</h1>
+<p align="center">
+  <img src="https://telegra.ph/file/59596f593dce576523df8.jpg" alt="The-PANTHERS BOT">
 
 
 
