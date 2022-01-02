@@ -1,7 +1,7 @@
 <h2 align="centre"> LUCY MUSIC</h2>
 
 
-LUCY(https://telegra.ph/file/59596f593dce576523df8.jpg)
+
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
 - FFmpeg
