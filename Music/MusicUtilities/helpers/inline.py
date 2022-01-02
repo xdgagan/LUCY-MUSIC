@@ -20,7 +20,7 @@ def play_markup(videoid, user_id):
                 InlineKeyboardButton(text="🖱 ᴍᴇɴᴜ", callback_data=f'other {videoid}|{user_id}'),
             ],
             [
-                InlineKeyboardButton(text=f"✨ SUPPORT", url=f"https://t.me/@lucyhelp"),
+                InlineKeyboardButton(text=f"✨ SUPPORT", url=f"https://t.me/lucyhelp"),
                 InlineKeyboardButton(text=f"✨ CHANNEL", url=f"https://t.me/thanosowner"),
             ],
             [      
