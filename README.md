@@ -48,10 +48,7 @@
 
 ## 🔎 ꜱᴜᴘᴘᴏʀᴛ ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ
 
-## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛꜱ 💜
-ʜᴇʀᴏᴋᴜ ɪꜱ ᴛʜᴇ ᴇᴀꜱʏ ᴡᴀʏ ᴛᴏ ʜᴏꜱᴛ ᴜʀ ᴀᴘᴘꜱ
 
-[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/THANOSUSER/LUCY-MUSIC)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/THANOSUSER/LUCY-MUSIC/tree/Umm), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
