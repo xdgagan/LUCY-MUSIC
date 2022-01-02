@@ -1,6 +1,5 @@
-<h2 align="centre"> **LUCY MUSIC**</h2>
+<h2 align="centre"> LUCY MUSIC</h2>
 
-## LUCY BOTS 
 
 ### LUCY ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
