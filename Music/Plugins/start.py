@@ -58,10 +58,10 @@ Powered By [LUCY BOTS](t.me/LUCYHELP) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "QUEEN", url=f"https://t.me/CUTIE_PRIYAOP1"
+                        "CHANNEL", url=f"https://t.me/THANOSOWNER"
                     ),
                     InlineKeyboardButton(
-                        "KING", url=f"https://t.me/MAFIARISHABH"
+                        "SUPPORT", url=f"https://t.me/LUCYHELP"
                     )
                 ]
                 
