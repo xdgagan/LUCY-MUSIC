@@ -1,8 +1,8 @@
 <h1 align="center">
-<b>LUCY MUSIC</b>
+<b>Asukaa~x MUSIC</b>
 </h1>
 <p align="center">
-  <img src="https://telegra.ph/file/59596f593dce576523df8.jpg" alt="The-PANTHERS BOT">
+  <img src="https://telegra.ph/file/bc7330069b3b574ac8504.jpg" alt="The-PANTHERS BOT">
 
 
 
@@ -25,7 +25,7 @@
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
-[CLICK HERE](https://t.me/LUCYHELP)
+[CLICK HERE](https://t.me/ASUKA_SUPPORT)
 
 
 ## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 🔥️
@@ -64,4 +64,4 @@
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/LUCYHELP"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/LUCYHELP"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ASUKA_SUPPORT"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/LUCYHELP"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
